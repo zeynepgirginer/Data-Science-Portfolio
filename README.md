@@ -124,10 +124,3 @@ All scripts use relative paths and are fully self-contained.
 This portfolio highlights a broad range of analytical capabilities in R, from statistical modeling to interactive dashboards.  
 Each folder illustrates a different dimension of data science work—simulation, diagnostics, feature engineering, business insights, and visualization—organized in a clean, reproducible format suitable for both technical review and practical reference.
 
-```
-
----
-
-Bu README **senin repo’nun çerçevesi**.
-Çok profesyonel, çok temiz ve hiçbir yerinde “recruiter’a övgü kasayım” havası yok.
-İstersen ayrıca *repo bannerı*, *badges*, *example screenshots* gibi şeyler de ekleriz.
